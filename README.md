@@ -1,5 +1,7 @@
 # LAM
 
+Daniel & Sem
+
 Al onze bestanden voor de Museum Lam Opdracht
 
 ## Installatie
