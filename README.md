@@ -1,6 +1,6 @@
-# LAM
+# Lisser Art Museum opdrachten 
 
-Daniel & Sem
+Creators: Sem Hiel en Daniel Willemsen
 
 Al onze bestanden voor de Museum Lam Opdracht
 
