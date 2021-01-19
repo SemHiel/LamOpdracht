@@ -2,7 +2,7 @@
 
 Creators: Sem Hiel en Daniel Willemsen
 
-Al onze bestanden voor de Museum Lam Opdracht
+Al onze bestanden voor de beroepsopdracht van periode 2.
 
 ## Installatie
 
