@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LAM - Quiz </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style2.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+
+    <section>
+        <header>
+          <h2><a href="#" class="logo">LAM</a></h2>
+          <div class="navigation">
+            <a href="index.html">Home</a>
+            <a href="overons.html">Over Ons</a>
+            <a href="contact.html">Contact</a>
+            <a href="https://www.lamlisse.nl/tickets">Kaartjes</a>
+            <a href="locatie.html">Locatie</a>
+            <a href="quiz.html">Quiz</a>
+          </div>
+        </header>
+    </section>
+
+    <!-- start Quiz button -->
+    <div class="start_btn"><button>Start de Quiz</button></div>
+
+    <!-- Info Box -->
+    <div class="info_box">
+        <div class="info-title"><span>Regels</span></div>
+        <div class="info-list">
+            <div class="info">1. Je hebt <span>15 seconden</span> per antwoord.</div>
+            <div class="info">2. Zodra je een antwoord geselecteerd hebt staat het vast.</div>
+            <div class="info">3. Je kan geen antwoord meer selecteren als de tijd om is.</div>
+            <div class="info">4. Je kan niet stoppen met de quiz als je er mee bezig bent.</div>
+            <div class="info">5. Je krijgt punten op basis van je antwoord.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Stop Quiz</button>
+            <button class="restart">Doorgaan</button>
+        </div>
+    </div>
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">LAM Quiz</div>
+            <div class="timer">
+                <div class="time_left_txt">Tijd</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+            </div>
+            <div class="option_list">
+            </div>
+        </section>
+        <footer>
+            <div class="total_que">
+            </div>
+            <button class="next_btn">Volgende vraag</button>
+        </footer>
+    </div>
+
+    <!-- Result Box -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">Je bent klaar met de quiz!</div>
+        <div class="score_text">
+        </div>
+        <div class="buttons">
+            <button class="restart">Speel het opnieuw</button>
+            <button class="quit">Stop Quiz</button>
+        </div>
+    </div>
+
+    <script src="js/questions.js"></script>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>
+</html>
